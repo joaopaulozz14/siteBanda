@@ -2,67 +2,67 @@ import "./styles.css";
 const PhotosComponent = () => {
   return (
     <>
-    <h2 className="h2_photo">PHOTOS</h2>
+      <h2 className="h2_photo">PHOTOS</h2>
       <div className="container_photo">
         <div className="photo">
           <img
-            src="images/images-photos/alexandre-st-louis-IlfpKwRMln0-unsplash.jpg"
+            src="https://images.pexels.com/photos/63695/pexels-photo-63695.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="images/images-photos/matthew-kalapuch-sqJ4tLBiurw-unsplash.jpg"
+            src="https://images.pexels.com/photos/258804/pexels-photo-258804.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/sam-moghadam-0wFVLpANoYc-unsplash.jpg"
+            src="https://images.pexels.com/photos/3563173/pexels-photo-3563173.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/spencer-davis-JD_cAuMmPio-unsplash.jpg"
+            src="https://images.pexels.com/photos/1625371/pexels-photo-1625371.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/tijs-van-leur-So6YckShOVA-unsplash.jpg"
+            src="https://images.pexels.com/photos/2091374/pexels-photo-2091374.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/parker-coffman-uhCiPYyO0KE-unsplash.jpg"
+            src="https://images.pexels.com/photos/167623/pexels-photo-167623.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/ben-collins-R-9ebgpplbk-unsplash.jpg"
+            src="https://images.pexels.com/photos/8041224/pexels-photo-8041224.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="/images/images-photos/quaid-lagan-B68Bp4kGxP8-unsplash.jpg"
+            src="https://images.pexels.com/photos/11018964/pexels-photo-11018964.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />
         </div>
         <div className="photo">
           <img
-            src="images/images-photos/alexandre-st-louis-IlfpKwRMln0-unsplash.jpg"
+            src="https://images.pexels.com/photos/1452793/pexels-photo-1452793.jpeg?auto=compress&cs=tinysrgb&w=400"
             alt=""
             className="photo_img"
           />

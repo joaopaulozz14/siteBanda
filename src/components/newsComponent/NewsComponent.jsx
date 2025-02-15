@@ -8,7 +8,7 @@ const NewsComponent = () => {
         <div className="news_container_block">
           <div className="news_container_fit_img">
             <img
-              src="/images/pexels-spadezaesthetics-14436042.jpg"
+              src="https://images.pexels.com/photos/949274/pexels-photo-949274.jpeg"
               alt=""
               className="news_container_img"
             />
@@ -19,7 +19,7 @@ const NewsComponent = () => {
         <div className="news_container_block">
           <div className="news_container_fit_img">
             <img
-              src="/images/pexels-hannahmgibbs-949274.jpg"
+              src="https://images.pexels.com/photos/2614942/pexels-photo-2614942.jpeg?auto=compress&cs=tinysrgb&w=400"
               alt=""
               className="news_container_img"
             />
@@ -30,7 +30,7 @@ const NewsComponent = () => {
         <div className="news_container_block">
           <div className="news_container_fit_img">
             <img
-              src="/images/pexels-mantas-hesthaven-46458-354304.jpg"
+              src="https://images.pexels.com/photos/354304/pexels-photo-354304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt=""
               className="news_container_img"
             />

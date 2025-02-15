@@ -24,7 +24,7 @@ const Header = () => {
         </li>
         <li onClick={() => navigate("/watch")}>videos</li>
 
-        <li onClick={() => navigate("/photos")}>fotos</li>
+        <li onClick={() => navigate("/photos")}>photos</li>
       </ul>
     </header>
   );
