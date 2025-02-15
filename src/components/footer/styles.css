@@ -1,0 +1,20 @@
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  margin: 60px 0;
+  gap: 20px;
+}
+footer button {
+  cursor: pointer;
+  background-color: #281259;
+  padding: 30px;
+  font-size: 20px;
+  color: #fff;
+  font-weight: bolder;
+}
+
+footer button:hover {
+  background-color: #5100ff;
+}

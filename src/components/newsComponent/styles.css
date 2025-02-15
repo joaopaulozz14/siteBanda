@@ -1,3 +1,15 @@
+.news_section {
+  padding: 0 10px;
+}
+.h2_news {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: -30px;
+  color: #fff;
+  font-size: 3rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
 .news_container {
   margin-top: 6.5rem;
   width: 100%;
