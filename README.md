@@ -30,7 +30,7 @@ Antes de começar, você precisa ter:
 ### 2️⃣ Clonar o Repositório
 
 ```sh
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/joaopaulozz14/siteBanda.git
 cd seu-projeto
 ```
 
